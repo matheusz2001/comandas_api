@@ -1,7 +1,7 @@
 from dotenv import load_dotenv, find_dotenv
 import os
 
-#Matheus Felipe
+#Matheus Felipe Ribeiro Cruz de Mello
 
 # localiza o arquivo de .env
 dotenv_file = find_dotenv()

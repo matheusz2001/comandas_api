@@ -15,7 +15,7 @@ from security import get_current_active_user, User
 # dependências de forma global
 router = APIRouter(dependencies=[Depends(get_current_active_user)])
 
-#Matheus Felipe
+#Matheus Felipe Ribeiro Cruz de Mello
 
 # Lista comanda conforme o id informado
 @router.get("/comanda/{id_comanda}", tags=["Comanda"])

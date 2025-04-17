@@ -1,6 +1,6 @@
 import db
 from sqlalchemy import Column, VARCHAR, CHAR, Integer
-#Matheus Felipe
+#Matheus Felipe Ribeiro Cruz de Mello
 
 class FuncionarioDB(db.Base):
     __tablename__ = 'tb_funcionario'

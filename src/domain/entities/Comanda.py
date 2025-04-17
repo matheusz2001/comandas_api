@@ -1,6 +1,6 @@
 from pydantic import BaseModel
 from datetime import date
-#Matheus Felipe
+#Matheus Felipe Ribeiro Cruz de Mello
 
 class Comanda(BaseModel):
     id_comanda: int = None

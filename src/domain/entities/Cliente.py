@@ -1,5 +1,5 @@
 from pydantic import BaseModel
-#Matheus Felipe
+#Matheus Felipe Ribeiro Cruz de Mello
 
 class Cliente(BaseModel):
     id_cliente: int = None

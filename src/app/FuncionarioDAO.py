@@ -10,7 +10,7 @@ from security import get_current_active_user, User
 # dependências de forma global
 router = APIRouter( dependencies=[Depends(get_current_active_user)])
 
-#Matheus Felipe
+#Matheus Felipe Ribeiro Cruz de Mello
 
 # Criar as rotas/endpoints: GET, POST, PUT, DELETE
 

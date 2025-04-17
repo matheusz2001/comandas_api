@@ -1,7 +1,7 @@
 import db
 from sqlalchemy import Column, VARCHAR, CHAR, Integer, BLOB, DECIMAL
 
-#Matheus Felipe
+#Matheus Felipe Ribeiro Cruz de Mello
 
 class ProdutoDB(db.Base):
     __tablename__ = 'tb_produto'

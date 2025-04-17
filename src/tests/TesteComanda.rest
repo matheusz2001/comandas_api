@@ -1,6 +1,6 @@
 @token = eyJhbGciOiJIUzI1cwMTd9.UGVKOrjcoc4ZS5gQ42VKld11jXKMGX-ikYad4-vuT3w
 
-#Matheus Felipe
+#Matheus Felipe Ribeiro Cruz de Mello
 
 ### Verbo GET – filtrar por id
 GET http://localhost:8000/comanda/1 HTTP/1.1

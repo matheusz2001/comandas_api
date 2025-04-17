@@ -2,7 +2,7 @@ from fastapi import FastAPI
 from settings import HOST, PORT, RELOAD
 import uvicorn
 
-#Matheus Felipe
+#Matheus Felipe Ribeiro Cruz de Mello
 
 # import das classes com as rotas/endpoints
 import security

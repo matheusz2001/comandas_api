@@ -3,7 +3,7 @@ from sqlalchemy import Column, VARCHAR, Integer, DateTime, DECIMAL, ForeignKey
 from infra.orm.ProdutoModel import ProdutoDB
 from infra.orm.FuncionarioModel import FuncionarioDB
 from infra.orm.ClienteModel import ClienteDB
-#Matheus Felipe
+#Matheus Felipe Ribeiro Cruz de Mello
 
 class ComandaDB(db.Base):
     __tablename__ = 'tb_comanda'
