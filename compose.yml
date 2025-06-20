@@ -1,7 +1,7 @@
 services:
   db:
     image: mysql:8
-    container_name: mysql_commandas_api
+    container_name: mysql_commandas_api_ze
     environment:
       MYSQL_ROOT_PASSWORD: abcBolinhas12345
       MYSQL_DATABASE: comandas_db
